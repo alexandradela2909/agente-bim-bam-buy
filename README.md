@@ -212,6 +212,6 @@ La aplicación fue desplegada utilizando Streamlit Community Cloud.
 
 [https://agente-bim-bam-buy.streamlit.app/](https://agente-bim-bam-buy.streamlit.app/)
 
-## Captura
+## Demostración
 
-![Aplicación desplegada](imagenes/captura-agente.png)
+[![Ver demostración](imagenes/captura-agente.png)](https://drive.google.com/file/d/168E2sEvmOhIV_YSHSQVBG8w6BhmhBkwo/view?usp=sharing)
